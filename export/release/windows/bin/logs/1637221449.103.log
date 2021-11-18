@@ -1,0 +1,216 @@
+0:00.00 [INFO ] (Debug/onInitProgram#203): Debug logging initialized. Hello, developer.
+0:00.00 [INFO ] (Debug/onInitProgram#208): This is a RELEASE build.
+0:00.01 [INFO ] (Debug/onInitProgram#210): HaxeFlixel version: HaxeFlixel 4.10.0
+0:00.01 [INFO ] (Debug/onInitProgram#211): Friday Night Funkin' version: 0.2.7.1
+0:00.02 [INFO ] (Debug/onInitProgram#212): KadeEngine version: 1.8
+0:00.03 [INFO ] (ModCore/initialize#27): Initializing ModCore...
+0:00.03 [INFO ] (ModCore/getModIds#95): Scanning the mods folder...
+0:00.04 [INFO ] (ModCore/getModIds#97): Found 1 mods when scanning.
+0:00.04 [INFO ] (ModCore/loadModsById#37): Attempting to load 1 mods...
+0:00.05 [WARN ] Could not find mod icon file: "mods/introMod/_polymod_icon.png"
+0:00.12 [INFO ]  user specified CUSTOM
+0:00.13 [TRACE] (ModCoreBackend/new#167): Initialized custom asset loader backend.
+0:00.13 [WARN ] (ModCoreBackend/clearCache#173): Custom asset cache has been cleared.
+0:00.14 [ERROR] Preparing to load mod mods/introMod
+0:00.15 [ERROR] Done loading mod mods/introMod
+0:00.15 [TRACE] (ModCoreBackend/exists#178): Call to ModCoreBackend: exists(_polymod_pack.txt)
+0:00.16 [INFO ] (ModCore/loadModsById#67): Mod loading complete. We loaded 1 / 1 mods.
+0:00.17 [TRACE] (ModCore/loadModsById#70):   * Intro Mod v1.0.0 [introMod]
+0:00.17 [INFO ] (ModCore/loadModsById#73): Installed mods have replaced 1 images.
+0:00.18 [TRACE] (ModCore/loadModsById#75):   * images/KadeEngineLogo.png
+0:00.18 [INFO ] (ModCore/loadModsById#78): Installed mods have replaced 0 text files.
+0:00.19 [INFO ] (ModCore/loadModsById#83): Installed mods have replaced 0 music files.
+0:00.20 [INFO ] (ModCore/loadModsById#88): Installed mods have replaced 0 sound files.
+0:00.22 [TRACE] (TitleState/create#56): We loaded 0 assets into the default library
+0:11.50 [INFO ] (TitleState/skipIntro#446): Skipping intro...
+0:37.35 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-easy
+0:37.39 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial
+0:37.40 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-hard
+0:37.75 [INFO ] (Song/loadFromJson#83): Loading song JSON: bopeebo/bopeebo-easy
+0:37.79 [INFO ] (Song/loadFromJson#83): Loading song JSON: bopeebo/bopeebo
+0:37.80 [INFO ] (Song/loadFromJson#83): Loading song JSON: bopeebo/bopeebo-hard
+0:38.13 [INFO ] (Song/loadFromJson#83): Loading song JSON: fresh/fresh-easy
+0:38.15 [INFO ] (Song/loadFromJson#83): Loading song JSON: fresh/fresh
+0:38.18 [INFO ] (Song/loadFromJson#83): Loading song JSON: fresh/fresh-hard
+0:38.65 [INFO ] (Song/loadFromJson#83): Loading song JSON: dadbattle/dadbattle-easy
+0:38.70 [INFO ] (Song/loadFromJson#83): Loading song JSON: dadbattle/dadbattle
+0:38.71 [INFO ] (Song/loadFromJson#83): Loading song JSON: dadbattle/dadbattle-hard
+0:39.25 [INFO ] (Song/loadFromJson#83): Loading song JSON: spookeez/spookeez-easy
+0:39.32 [INFO ] (Song/loadFromJson#83): Loading song JSON: spookeez/spookeez
+0:39.37 [INFO ] (Song/loadFromJson#83): Loading song JSON: spookeez/spookeez-hard
+0:40.67 [INFO ] (Song/loadFromJson#83): Loading song JSON: south/south-easy
+0:40.72 [INFO ] (Song/loadFromJson#83): Loading song JSON: south/south
+0:40.74 [INFO ] (Song/loadFromJson#83): Loading song JSON: south/south-hard
+0:41.30 [INFO ] (Song/loadFromJson#83): Loading song JSON: monster/monster-easy
+0:41.36 [INFO ] (Song/loadFromJson#83): Loading song JSON: monster/monster
+0:41.37 [INFO ] (Song/loadFromJson#83): Loading song JSON: monster/monster-hard
+0:42.09 [INFO ] (Song/loadFromJson#83): Loading song JSON: pico/pico-easy
+0:42.10 [INFO ] (Song/loadFromJson#83): Loading song JSON: pico/pico
+0:42.13 [INFO ] (Song/loadFromJson#83): Loading song JSON: pico/pico-hard
+0:42.50 [INFO ] (Song/loadFromJson#83): Loading song JSON: philly/philly-easy
+0:42.51 [INFO ] (Song/loadFromJson#83): Loading song JSON: philly/philly
+0:42.52 [INFO ] (Song/loadFromJson#83): Loading song JSON: philly/philly-hard
+0:42.94 [INFO ] (Song/loadFromJson#83): Loading song JSON: blammed/blammed-easy
+0:42.95 [INFO ] (Song/loadFromJson#83): Loading song JSON: blammed/blammed
+0:42.95 [INFO ] (Song/loadFromJson#83): Loading song JSON: blammed/blammed-hard
+0:43.45 [INFO ] (Song/loadFromJson#83): Loading song JSON: satin-panties/satin-panties-easy
+0:43.46 [INFO ] (Song/loadFromJson#83): Loading song JSON: satin-panties/satin-panties
+0:43.47 [INFO ] (Song/loadFromJson#83): Loading song JSON: satin-panties/satin-panties-hard
+0:43.86 [INFO ] (Song/loadFromJson#83): Loading song JSON: high/high-easy
+0:43.87 [INFO ] (Song/loadFromJson#83): Loading song JSON: high/high
+0:43.88 [INFO ] (Song/loadFromJson#83): Loading song JSON: high/high-hard
+0:44.70 [INFO ] (Song/loadFromJson#83): Loading song JSON: milf/milf-easy
+0:44.72 [INFO ] (Song/loadFromJson#83): Loading song JSON: milf/milf
+0:44.75 [INFO ] (Song/loadFromJson#83): Loading song JSON: milf/milf-hard
+0:46.30 [INFO ] (Song/loadFromJson#83): Loading song JSON: cocoa/cocoa-easy
+0:46.31 [INFO ] (Song/loadFromJson#83): Loading song JSON: cocoa/cocoa
+0:46.32 [INFO ] (Song/loadFromJson#83): Loading song JSON: cocoa/cocoa-hard
+0:47.01 [INFO ] (Song/loadFromJson#83): Loading song JSON: eggnog/eggnog-easy
+0:47.02 [INFO ] (Song/loadFromJson#83): Loading song JSON: eggnog/eggnog
+0:47.03 [INFO ] (Song/loadFromJson#83): Loading song JSON: eggnog/eggnog-hard
+0:47.60 [INFO ] (Song/loadFromJson#83): Loading song JSON: winter-horrorland/winter-horrorland-easy
+0:47.61 [INFO ] (Song/loadFromJson#83): Loading song JSON: winter-horrorland/winter-horrorland
+0:47.63 [INFO ] (Song/loadFromJson#83): Loading song JSON: winter-horrorland/winter-horrorland-hard
+0:48.29 [INFO ] (Song/loadFromJson#83): Loading song JSON: senpai/senpai-easy
+0:48.30 [INFO ] (Song/loadFromJson#83): Loading song JSON: senpai/senpai
+0:48.31 [INFO ] (Song/loadFromJson#83): Loading song JSON: senpai/senpai-hard
+0:49.48 [INFO ] (Song/loadFromJson#83): Loading song JSON: roses/roses-easy
+0:49.50 [INFO ] (Song/loadFromJson#83): Loading song JSON: roses/roses
+0:49.53 [INFO ] (Song/loadFromJson#83): Loading song JSON: roses/roses-hard
+0:50.53 [INFO ] (Song/loadFromJson#83): Loading song JSON: thorns/thorns-easy
+0:50.54 [INFO ] (Song/loadFromJson#83): Loading song JSON: thorns/thorns
+0:50.55 [INFO ] (Song/loadFromJson#83): Loading song JSON: thorns/thorns-hard
+1:29.73 [INFO ] (FreeplayState/loadSongInFreePlay#494): Loading song bopeebo from week 1 into Free Play...
+1:30.47 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/bopeebo/modchart.lua
+1:30.48 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+1:36.16 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+1:36.16 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+1:36.25 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+1:36.26 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+1:36.26 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+1:36.27 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+1:36.27 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+1:36.28 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+1:36.28 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+1:36.28 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+1:36.29 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+1:36.88 [TRACE] (PlayState/generateSong#1742): whats the fuckin shit
+1:49.73 [TRACE] (ChartingState/create#161): false
+1:49.73 [TRACE] (ChartingState/create#163): FlxAtlasFrames
+1:49.74 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+1:49.83 [INFO ] (Song/loadFromJson#83): Loading song JSON: bopeebo/bopeebo-hard
+1:49.84 [TRACE] (ChartingState/addGrid#522): 640
+1:49.84 [TRACE] (ChartingState/addGrid#526): height of 0
+1:49.85 [TRACE] (ChartingState/create#261): goin
+1:49.86 [TRACE] (ChartingState/create#302): STRUCTS: 2
+1:49.86 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+1:49.87 [TRACE] (ChartingState/poggers#1788): FUCK YOU BITCH FUCKER CUCK SUCK BITCH 32
+1:49.88 [TRACE] (ChartingState/create#308): Song length in MS: 76800
+1:49.88 [TRACE] (ChartingState/create#326): LENGTH IN STEPS 512 | LENGTH IN BEATS 128 | SECTIONS: 33
+1:49.89 [TRACE] (ChartingState/create#337): TARGET 76800
+1:49.93 [TRACE] (ChartingState/create#363): 76160
+1:51.79 [TRACE] (ChartingState/addEventsUI#849): 100
+1:51.80 [TRACE] (ChartingState/addEventsUI#864): bruh
+1:51.81 [TRACE] (ChartingState/addEventsUI#868): Event
+1:51.83 [TRACE] (ChartingState/addEventsUI#870): bruh
+1:51.84 [TRACE] (ChartingState/addEventsUI#872): bruh
+1:51.85 [TRACE] (ChartingState/addEventsUI#874): bruh
+1:51.86 [TRACE] (ChartingState/addEventsUI#876): bruh
+1:51.87 [TRACE] (ChartingState/addEventsUI#878): bruh
+1:51.89 [TRACE] (ChartingState/addEventsUI#880): bruh
+1:51.93 [TRACE] (ChartingState/addEventsUI#926): bruh
+1:51.94 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+1:51.98 [TRACE] (ChartingState/create#426): bruh
+1:51.99 [TRACE] (ChartingState/create#440): bruh
+1:52.00 [TRACE] (ChartingState/create#445): bruh
+1:52.02 [TRACE] (ChartingState/create#447): create
+1:53.22 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+1:53.22 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+1:58.25 [TRACE] (ChartingState/addEventsUI#902): 100 - value
+2:00.70 [TRACE] (ChartingState/addEventsUI#902): 100 - value
+2:04.65 [TRACE] (ChartingState/addNote#3331): 600 from 240
+2:04.66 [TRACE] (ChartingState/addNote#3337): adding note with 600 from dummyArrow with data 3
+2:05.00 [TRACE] (ChartingState/addNote#3331): 300 from 120
+2:05.00 [TRACE] (ChartingState/addNote#3337): adding note with 300 from dummyArrow with data 5
+2:05.41 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - 0.25 - GO TO BEAT 0.25
+2:05.44 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - 0.25 - GO TO BEAT 0.5
+2:05.47 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - 0.25 - GO TO BEAT 0.75
+2:07.75 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - 0.25 - GO TO BEAT 1
+2:07.78 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - 0.25 - GO TO BEAT 1.25
+2:07.80 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - 0.25 - GO TO BEAT 1.5
+2:08.37 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 1.24975
+2:09.58 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/bopeebo/modchart.lua
+2:09.59 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+2:14.27 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+2:14.28 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+2:14.36 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+2:14.37 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+2:14.37 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+2:14.38 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+2:14.38 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+2:14.39 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+2:14.39 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+2:14.39 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+2:14.40 [TRACE] (PlayState/generateStaticArrows#1801): FlxAtlasFrames
+2:14.42 [TRACE] (PlayState/generateSong#1742): whats the fuckin shit
+2:40.86 [TRACE] (MusicBeatState/onWindowFocusIn#241): IM BACK!!!
+2:41.03 [TRACE] (MusicBeatSubstate/onWindowFocusIn#131): IM BACK!!!
+2:41.96 [TRACE] (PauseSubState/destroy#261): destroying music for pauseeta
+3:58.41 [TRACE] (PlayState/update#2089): we're fuckin ending the song 
+4:11.00 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-easy
+4:11.18 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial
+4:11.21 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-hard
+4:12.62 [INFO ] (Song/loadFromJson#83): Loading song JSON: bopeebo/bopeebo-easy
+4:12.82 [INFO ] (Song/loadFromJson#83): Loading song JSON: bopeebo/bopeebo
+4:13.16 [INFO ] (Song/loadFromJson#83): Loading song JSON: bopeebo/bopeebo-hard
+4:13.18 [INFO ] (Song/loadFromJson#83): Loading song JSON: fresh/fresh-easy
+4:13.20 [INFO ] (Song/loadFromJson#83): Loading song JSON: fresh/fresh
+4:13.29 [INFO ] (Song/loadFromJson#83): Loading song JSON: fresh/fresh-hard
+4:14.55 [INFO ] (Song/loadFromJson#83): Loading song JSON: dadbattle/dadbattle-easy
+4:14.68 [INFO ] (Song/loadFromJson#83): Loading song JSON: dadbattle/dadbattle
+4:14.74 [INFO ] (Song/loadFromJson#83): Loading song JSON: dadbattle/dadbattle-hard
+4:17.00 [INFO ] (Song/loadFromJson#83): Loading song JSON: spookeez/spookeez-easy
+4:17.35 [INFO ] (Song/loadFromJson#83): Loading song JSON: spookeez/spookeez
+4:17.43 [INFO ] (Song/loadFromJson#83): Loading song JSON: spookeez/spookeez-hard
+4:18.18 [INFO ] (Song/loadFromJson#83): Loading song JSON: south/south-easy
+4:18.35 [INFO ] (Song/loadFromJson#83): Loading song JSON: south/south
+4:18.58 [INFO ] (Song/loadFromJson#83): Loading song JSON: south/south-hard
+4:21.50 [INFO ] (Song/loadFromJson#83): Loading song JSON: monster/monster-easy
+4:22.09 [INFO ] (Song/loadFromJson#83): Loading song JSON: monster/monster
+4:22.10 [INFO ] (Song/loadFromJson#83): Loading song JSON: monster/monster-hard
+4:25.53 [INFO ] (Song/loadFromJson#83): Loading song JSON: pico/pico-easy
+4:26.10 [INFO ] (Song/loadFromJson#83): Loading song JSON: pico/pico
+4:26.19 [INFO ] (Song/loadFromJson#83): Loading song JSON: pico/pico-hard
+4:28.04 [INFO ] (Song/loadFromJson#83): Loading song JSON: philly/philly-easy
+4:28.09 [INFO ] (Song/loadFromJson#83): Loading song JSON: philly/philly
+4:28.16 [INFO ] (Song/loadFromJson#83): Loading song JSON: philly/philly-hard
+4:29.05 [INFO ] (Song/loadFromJson#83): Loading song JSON: blammed/blammed-easy
+4:29.17 [INFO ] (Song/loadFromJson#83): Loading song JSON: blammed/blammed
+4:29.28 [INFO ] (Song/loadFromJson#83): Loading song JSON: blammed/blammed-hard
+4:34.92 [INFO ] (Song/loadFromJson#83): Loading song JSON: satin-panties/satin-panties-easy
+4:35.57 [INFO ] (Song/loadFromJson#83): Loading song JSON: satin-panties/satin-panties
+4:35.60 [INFO ] (Song/loadFromJson#83): Loading song JSON: satin-panties/satin-panties-hard
+4:38.90 [INFO ] (Song/loadFromJson#83): Loading song JSON: high/high-easy
+4:38.94 [INFO ] (Song/loadFromJson#83): Loading song JSON: high/high
+4:39.40 [INFO ] (Song/loadFromJson#83): Loading song JSON: high/high-hard
+4:41.38 [INFO ] (Song/loadFromJson#83): Loading song JSON: milf/milf-easy
+4:41.46 [INFO ] (Song/loadFromJson#83): Loading song JSON: milf/milf
+4:41.55 [INFO ] (Song/loadFromJson#83): Loading song JSON: milf/milf-hard
+4:45.20 [INFO ] (Song/loadFromJson#83): Loading song JSON: cocoa/cocoa-easy
+4:45.23 [INFO ] (Song/loadFromJson#83): Loading song JSON: cocoa/cocoa
+4:45.32 [INFO ] (Song/loadFromJson#83): Loading song JSON: cocoa/cocoa-hard
+4:47.53 [INFO ] (Song/loadFromJson#83): Loading song JSON: eggnog/eggnog-easy
+4:47.88 [INFO ] (Song/loadFromJson#83): Loading song JSON: eggnog/eggnog
+4:48.13 [INFO ] (Song/loadFromJson#83): Loading song JSON: eggnog/eggnog-hard
+4:49.42 [INFO ] (Song/loadFromJson#83): Loading song JSON: winter-horrorland/winter-horrorland-easy
+4:50.11 [INFO ] (Song/loadFromJson#83): Loading song JSON: winter-horrorland/winter-horrorland
+4:50.12 [INFO ] (Song/loadFromJson#83): Loading song JSON: winter-horrorland/winter-horrorland-hard
+4:51.77 [INFO ] (Song/loadFromJson#83): Loading song JSON: senpai/senpai-easy
+4:51.85 [INFO ] (Song/loadFromJson#83): Loading song JSON: senpai/senpai
+4:51.86 [INFO ] (Song/loadFromJson#83): Loading song JSON: senpai/senpai-hard
+4:52.54 [INFO ] (Song/loadFromJson#83): Loading song JSON: roses/roses-easy
+4:52.56 [INFO ] (Song/loadFromJson#83): Loading song JSON: roses/roses
+4:52.58 [INFO ] (Song/loadFromJson#83): Loading song JSON: roses/roses-hard
+4:53.00 [INFO ] (Song/loadFromJson#83): Loading song JSON: thorns/thorns-easy
+4:53.03 [INFO ] (Song/loadFromJson#83): Loading song JSON: thorns/thorns
+4:53.04 [INFO ] (Song/loadFromJson#83): Loading song JSON: thorns/thorns-hard

@@ -1,0 +1,76 @@
+0:00.00 [INFO ] (Debug/onInitProgram#203): Debug logging initialized. Hello, developer.
+0:00.00 [INFO ] (Debug/onInitProgram#208): This is a RELEASE build.
+0:00.01 [INFO ] (Debug/onInitProgram#210): HaxeFlixel version: HaxeFlixel 4.10.0
+0:00.01 [INFO ] (Debug/onInitProgram#211): Friday Night Funkin' version: 0.2.7.1
+0:00.03 [INFO ] (Debug/onInitProgram#212): KadeEngine version: 1.8
+0:00.03 [INFO ] (ModCore/initialize#27): Initializing ModCore...
+0:00.04 [INFO ] (ModCore/getModIds#95): Scanning the mods folder...
+0:00.05 [INFO ] (ModCore/getModIds#97): Found 1 mods when scanning.
+0:00.05 [INFO ] (ModCore/loadModsById#37): Attempting to load 1 mods...
+0:00.06 [WARN ] Could not find mod icon file: "mods/introMod/_polymod_icon.png"
+0:00.07 [INFO ]  user specified CUSTOM
+0:00.07 [TRACE] (ModCoreBackend/new#167): Initialized custom asset loader backend.
+0:00.08 [WARN ] (ModCoreBackend/clearCache#173): Custom asset cache has been cleared.
+0:00.09 [ERROR] Preparing to load mod mods/introMod
+0:00.09 [ERROR] Done loading mod mods/introMod
+0:00.09 [TRACE] (ModCoreBackend/exists#178): Call to ModCoreBackend: exists(_polymod_pack.txt)
+0:00.10 [INFO ] (ModCore/loadModsById#67): Mod loading complete. We loaded 1 / 1 mods.
+0:00.11 [TRACE] (ModCore/loadModsById#70):   * Intro Mod v1.0.0 [introMod]
+0:00.12 [INFO ] (ModCore/loadModsById#73): Installed mods have replaced 1 images.
+0:00.12 [TRACE] (ModCore/loadModsById#75):   * images/KadeEngineLogo.png
+0:00.13 [INFO ] (ModCore/loadModsById#78): Installed mods have replaced 0 text files.
+0:00.13 [INFO ] (ModCore/loadModsById#83): Installed mods have replaced 0 music files.
+0:00.14 [INFO ] (ModCore/loadModsById#88): Installed mods have replaced 0 sound files.
+0:00.16 [TRACE] (TitleState/create#56): We loaded 0 assets into the default library
+0:12.06 [INFO ] (TitleState/skipIntro#446): Skipping intro...
+0:54.13 [INFO ] (Song/loadFromJson#83): Loading song JSON: bopeebo/bopeebo-hard
+0:57.14 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/bopeebo/modchart.lua
+0:57.15 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+1:02.90 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+1:02.91 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+1:02.99 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+1:02.99 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:03.00 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:03.00 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:03.01 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:03.01 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:03.02 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:03.02 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:03.03 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:03.79 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+1:09.56 [TRACE] (ChartingState/create#161): false
+1:09.57 [TRACE] (ChartingState/create#163): FlxAtlasFrames
+1:09.57 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+1:09.67 [INFO ] (Song/loadFromJson#83): Loading song JSON: bopeebo/bopeebo-hard
+1:09.68 [TRACE] (ChartingState/addGrid#522): 640
+1:09.68 [TRACE] (ChartingState/addGrid#526): height of 0
+1:09.69 [TRACE] (ChartingState/create#261): goin
+1:09.70 [TRACE] (ChartingState/create#302): STRUCTS: 2
+1:09.70 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+1:09.71 [TRACE] (ChartingState/poggers#1788): FUCK YOU BITCH FUCKER CUCK SUCK BITCH 32
+1:09.71 [TRACE] (ChartingState/create#308): Song length in MS: 76800
+1:09.72 [TRACE] (ChartingState/create#326): LENGTH IN STEPS 512 | LENGTH IN BEATS 128 | SECTIONS: 33
+1:09.73 [TRACE] (ChartingState/create#337): TARGET 76800
+1:09.79 [TRACE] (ChartingState/create#363): 76160
+1:11.35 [TRACE] (ChartingState/addEventsUI#849): 100
+1:11.35 [TRACE] (ChartingState/addEventsUI#864): bruh
+1:11.36 [TRACE] (ChartingState/addEventsUI#868): Event
+1:11.36 [TRACE] (ChartingState/addEventsUI#870): bruh
+1:11.36 [TRACE] (ChartingState/addEventsUI#872): bruh
+1:11.37 [TRACE] (ChartingState/addEventsUI#874): bruh
+1:11.37 [TRACE] (ChartingState/addEventsUI#876): bruh
+1:11.37 [TRACE] (ChartingState/addEventsUI#878): bruh
+1:11.38 [TRACE] (ChartingState/addEventsUI#880): bruh
+1:11.39 [TRACE] (ChartingState/addEventsUI#926): bruh
+1:11.40 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+1:11.41 [TRACE] (ChartingState/create#426): bruh
+1:11.42 [TRACE] (ChartingState/create#440): bruh
+1:11.42 [TRACE] (ChartingState/create#445): bruh
+1:11.42 [TRACE] (ChartingState/create#447): create
+1:12.57 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+1:12.58 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+1:38.89 [TRACE] (MusicBeatState/onWindowFocusOut#225): Lost Focus
+1:44.71 [TRACE] (MusicBeatState/onWindowFocusIn#241): IM BACK!!!
+1:46.43 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/bopeebo/modchart.lua
+1:46.44 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+1:48.88 [INFO ] (Character/parseDataFile#438): Generating character (Zerokung) from JSON data...

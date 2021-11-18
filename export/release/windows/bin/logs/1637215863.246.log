@@ -1,0 +1,25 @@
+0:00.00 [INFO ] (Debug/onInitProgram#203): Debug logging initialized. Hello, developer.
+0:00.00 [INFO ] (Debug/onInitProgram#208): This is a RELEASE build.
+0:00.01 [INFO ] (Debug/onInitProgram#210): HaxeFlixel version: HaxeFlixel 4.10.0
+0:00.02 [INFO ] (Debug/onInitProgram#211): Friday Night Funkin' version: 0.2.7.1
+0:00.03 [INFO ] (Debug/onInitProgram#212): KadeEngine version: 1.8
+0:00.04 [INFO ] (ModCore/initialize#27): Initializing ModCore...
+0:00.04 [INFO ] (ModCore/getModIds#95): Scanning the mods folder...
+0:00.05 [INFO ] (ModCore/getModIds#97): Found 1 mods when scanning.
+0:00.06 [INFO ] (ModCore/loadModsById#37): Attempting to load 1 mods...
+0:00.06 [WARN ] Could not find mod icon file: "mods/introMod/_polymod_icon.png"
+0:00.07 [INFO ]  user specified CUSTOM
+0:00.07 [TRACE] (ModCoreBackend/new#167): Initialized custom asset loader backend.
+0:00.08 [WARN ] (ModCoreBackend/clearCache#173): Custom asset cache has been cleared.
+0:00.09 [ERROR] Preparing to load mod mods/introMod
+0:00.09 [ERROR] Done loading mod mods/introMod
+0:00.10 [TRACE] (ModCoreBackend/exists#178): Call to ModCoreBackend: exists(_polymod_pack.txt)
+0:00.11 [INFO ] (ModCore/loadModsById#67): Mod loading complete. We loaded 1 / 1 mods.
+0:00.12 [TRACE] (ModCore/loadModsById#70):   * Intro Mod v1.0.0 [introMod]
+0:00.12 [INFO ] (ModCore/loadModsById#73): Installed mods have replaced 1 images.
+0:00.13 [TRACE] (ModCore/loadModsById#75):   * images/KadeEngineLogo.png
+0:00.14 [INFO ] (ModCore/loadModsById#78): Installed mods have replaced 0 text files.
+0:00.14 [INFO ] (ModCore/loadModsById#83): Installed mods have replaced 0 music files.
+0:00.15 [INFO ] (ModCore/loadModsById#88): Installed mods have replaced 0 sound files.
+0:00.17 [TRACE] (TitleState/create#56): We loaded 0 assets into the default library
+0:11.60 [INFO ] (TitleState/skipIntro#446): Skipping intro...
